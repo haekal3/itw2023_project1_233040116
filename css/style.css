@@ -70,8 +70,7 @@ nav ul li a {
   margin: 20px;
 }
 
-nav ul li a:hover,
-nav ul li a.active {
+nav ul li a:hover {
   color: #9BA4B4;
 }
 
@@ -276,7 +275,7 @@ nav ul li a.active {
   padding-top: 8px;
 }
 
-/* Project-end */
+/* Prestasi-end */
 
 /* contact */
 .contact {
@@ -366,32 +365,6 @@ button {
 
   .about-content {
     padding: 20px;
-  }
-}
-
-@media only screen and (max-width: 991px) {
-  section {
-    padding: 100px 10% 100px;
-  }
-
-  .header {
-    padding: 10px 3%;
-  }
-
-  .skills {
-    padding-bottom: 100px;
-  }
-
-  .prestasi {
-    padding-bottom: 80px;
-  }
-
-  .contact {
-    padding-bottom: 80px;
-  }
-
-  .footer {
-    padding: 20px 10%;
   }
 }
 
