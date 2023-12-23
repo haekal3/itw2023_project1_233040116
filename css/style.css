@@ -344,6 +344,32 @@ button:hover {
   }
 }
 
+@media (max-width: 991px) {
+  nav {
+      padding: 20px 2%;
+  }
+
+  section {
+      padding: 100px 10% 100px;
+  }
+
+  .skills {
+      padding-bottom: 80px;
+  }
+
+  .achievement {
+      padding-bottom: 80px;
+  }
+
+  .contact {
+      min-height: auto;
+  }
+
+  .footer {
+      padding: 30rem 3%;
+  }
+}
+
 @media (max-width: 768px) {
   .menu-icon {
     display: flex;
