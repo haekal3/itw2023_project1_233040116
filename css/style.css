@@ -450,11 +450,11 @@ button:hover {
 
 @media (max-width: 425px) {
   .home-img1 img {
-    width: 40vw;
+    width: 60vw;
   }
 
   .home-img2 img {
-    width: 40vw;
+    width: 60vw;
   }
 
   .contact-form {
